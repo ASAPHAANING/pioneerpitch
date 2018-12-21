@@ -1,13 +1,13 @@
 {
-  "main.css": "/pioneerpitch/static/css/main.af8e1cda.chunk.css",
-  "main.js": "/pioneerpitch/static/js/main.f853d7dc.chunk.js",
-  "main.js.map": "/pioneerpitch/static/js/main.f853d7dc.chunk.js.map",
-  "static/js/1.bc2157ac.chunk.js": "/pioneerpitch/static/js/1.bc2157ac.chunk.js",
-  "static/js/1.bc2157ac.chunk.js.map": "/pioneerpitch/static/js/1.bc2157ac.chunk.js.map",
-  "runtime~main.js": "/pioneerpitch/static/js/runtime~main.f8e77d46.js",
-  "runtime~main.js.map": "/pioneerpitch/static/js/runtime~main.f8e77d46.js.map",
-  "static/css/main.af8e1cda.chunk.css.map": "/pioneerpitch/static/css/main.af8e1cda.chunk.css.map",
-  "index.html": "/pioneerpitch/index.html",
-  "precache-manifest.dee5e1d3cb8c0e994316c09ccf7e8e5f.js": "/pioneerpitch/precache-manifest.dee5e1d3cb8c0e994316c09ccf7e8e5f.js",
-  "service-worker.js": "/pioneerpitch/service-worker.js"
+  "main.css": "./static/css/main.af8e1cda.chunk.css",
+  "main.js": "./static/js/main.f851f97c.chunk.js",
+  "main.js.map": "./static/js/main.f851f97c.chunk.js.map",
+  "static/js/1.3aaa97a6.chunk.js": "./static/js/1.3aaa97a6.chunk.js",
+  "static/js/1.3aaa97a6.chunk.js.map": "./static/js/1.3aaa97a6.chunk.js.map",
+  "runtime~main.js": "./static/js/runtime~main.4a686d48.js",
+  "runtime~main.js.map": "./static/js/runtime~main.4a686d48.js.map",
+  "static/css/main.af8e1cda.chunk.css.map": "./static/css/main.af8e1cda.chunk.css.map",
+  "index.html": "./index.html",
+  "precache-manifest.afd377bac991d22dc159dbf97fbc6389.js": "./precache-manifest.afd377bac991d22dc159dbf97fbc6389.js",
+  "service-worker.js": "./service-worker.js"
 }
